@@ -1,3 +1,3 @@
 # Tut
 
-Just Git
+Just Git!
